@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Group 1000004956",
+    "from_screen": "Splash",
+    "tap_position": {
+      "x": 215,
+      "y": 466
+    },
+    "navigates_to": "1:1795",
+    "interaction_type": "ON_CLICK",
+    "node_id": "1:1588",
+    "element_y": 775.0,
+    "screenshot": "screenshots/Sign_In.png"
+  },
+  {
+    "name": "Button=Simple, Type=Simple, Icon=False, Size=Medium, Style=Simple, Social Media=None, Disabled=False, Theme=Default, Component=Button",
+    "from_screen": "Button=Simple, Type=Simple, Icon=False, Size=Medium, Style=Simple, Social Media=None, Disabled=False, Theme=Default, Component=Button",
+    "tap_position": {
+      "x": 191,
+      "y": 35
+    },
+    "navigates_to": "1:1735",
+    "interaction_type": "ON_CLICK",
+    "node_id": "1:1822",
+    "element_y": 1191.0,
+    "screenshot": "screenshots/3.png"
+  },
+  {
+    "name": "Context",
+    "from_screen": "Context",
+    "tap_position": {
+      "x": 183,
+      "y": 143
+    },
+    "navigates_to": "1:1675",
+    "interaction_type": "ON_CLICK",
+    "node_id": "1:1755",
+    "element_y": 833.0,
+    "screenshot": "screenshots/2.png"
+  },
+  {
+    "name": "Button=Simple, Type=Simple, Icon=False, Size=Medium, Style=Simple, Social Media=None, Disabled=False, Theme=Default, Component=Button",
+    "from_screen": "Button=Simple, Type=Simple, Icon=False, Size=Medium, Style=Simple, Social Media=None, Disabled=False, Theme=Default, Component=Button",
+    "tap_position": {
+      "x": 32,
+      "y": 29
+    },
+    "navigates_to": "1:1901",
+    "interaction_type": "ON_CLICK",
+    "node_id": "1:1703",
+    "element_y": 688.0,
+    "screenshot": "screenshots/Sign_In--2.png"
+  },
+  {
+    "name": "Button=Simple, Type=Simple, Icon=False, Size=Medium, Style=Simple, Social Media=None, Disabled=False, Theme=Default, Component=Button",
+    "from_screen": "Button=Simple, Type=Simple, Icon=False, Size=Medium, Style=Simple, Social Media=None, Disabled=False, Theme=Default, Component=Button",
+    "tap_position": {
+      "x": 191,
+      "y": 29
+    },
+    "navigates_to": "1:3381",
+    "interaction_type": "ON_CLICK",
+    "node_id": "1:1947",
+    "element_y": 1054.0,
+    "screenshot": "screenshots/Sign_In_3.png"
+  },
+  {
+    "name": "Button=Simple, Type=Simple, Icon=False, Size=Medium, Style=Simple, Social Media=None, Disabled=False, Theme=Default, Component=Button",
+    "from_screen": "Button=Simple, Type=Simple, Icon=False, Size=Medium, Style=Simple, Social Media=None, Disabled=False, Theme=Default, Component=Button",
+    "tap_position": {
+      "x": 191,
+      "y": 29
+    },
+    "navigates_to": "1:3503",
+    "interaction_type": "ON_CLICK",
+    "node_id": "1:3435",
+    "element_y": 1054.0,
+    "screenshot": "screenshots/Sign_In8.png"
+  }
+]

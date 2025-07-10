@@ -1,0 +1,6 @@
+1. Click_COORD, 215, 466, CHECK, Sign_In.png
+2. Click_COORD, 191, 35, CHECK, 3.png
+3. Click_COORD, 183, 143, CHECK, 2.png
+4. Click_COORD, 32, 29, CHECK, Sign_In--2.png
+5. Click_COORD, 191, 29, CHECK, Sign_In_3.png
+6. Click_COORD, 191, 29, CHECK, Sign_In8.png
