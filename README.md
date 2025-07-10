@@ -4,6 +4,11 @@
 
 
  python generate_click_flow_with_screens.py  --token figd_-0PkqHN22Jr6ljegMNRdKo2Vn1C-pTWqtmJuzYN5 --file UEi3tVrDIDsHtafmD8rInz
+
+
+
+
+ ----------------------------------------------------------------------------------------------------------------------------------
 🔍 Fetching file...
 ✅ Found 6 clickables
 📸 Saved: screenshots/Sign_In.png
